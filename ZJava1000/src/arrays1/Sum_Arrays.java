@@ -10,7 +10,7 @@ public class Sum_Arrays {
 			System.out.println("sum value" + sum + " ");
 		}
 		System.out.println("Sum of array elements is " + sum);
-		system.out.println("This line is added from git")
+		System.out.println("This line is added from git")
 	}
 
 }
